@@ -5,7 +5,7 @@ My name is Jenny.
 - ℹ️ I'm a Junior Software Developer with an emphasis on C#/.NET development
 - 🌱 I'm also a classically trained violinist
 - 💡 I find it fascinating how many correlations there are between music theory & coding
-- ⚡ As a former Graphic Designer, I'll always have a soft spot for design. The space between - - development and design is where I thrive.
+- ⚡ As a former Graphic Designer, I'll always have a soft spot for design. The space between development and design is where I thrive.
 <p align="center">
   <a href="https://github.com/jennywalvoord">
     <picture>
